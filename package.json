@@ -1,0 +1,20 @@
+{
+  "name": "Siri",
+  "version": "1.0.0",
+  "description": "sodfjasodfj",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricScottRichards/Siri.git"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricScottRichards/Siri/issues"
+  },
+  "homepage": "https://github.com/EricScottRichards/Siri"
+}
